@@ -32,4 +32,6 @@ A lean, modular AI-driven recommendation system designed to improve repeat purch
    ```
 
 ## 📊 Dashboard Preview
-*(Upload a screenshot here once it is deployed!)*
+<img width="2762" height="1434" alt="image" src="https://github.com/user-attachments/assets/6169f575-02fa-497f-b731-20e249c2d090" />
+<img width="2816" height="1454" alt="image" src="https://github.com/user-attachments/assets/a4e89371-ffd4-45ab-9d47-862ad145e11c" />
+
