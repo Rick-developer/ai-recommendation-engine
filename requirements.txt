@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+fastapi
+uvicorn
+pydantic
+openai
+faker
+matplotlib
+streamlit
